@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TTheHolyOne
+- 👀 I’m interested in... Programming
+- 🌱 I’m currently learning ... Python
+- 📫 How to reach me: Discord... TTheHolyOne#1642
+- ✨Website... https://ttheholyone.com/
