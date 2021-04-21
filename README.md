@@ -19,10 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ttheholyone&show_icons=true&locale=en&layout=compact" alt="ttheholyone" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ttheholyone&show_icons=true&locale=en" alt="ttheholyone" /></p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ttheholyone&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ttheholyone&repo=convoychat" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttheholyone&show_icons=true&theme=radical)
