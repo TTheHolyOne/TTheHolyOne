@@ -18,5 +18,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ttheholyone&show_icons=true&locale=en&layout=compact" alt="ttheholyone" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ttheholyone&show_icons=true&locale=en" alt="ttheholyone" /></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttheholyone&show_icons=true&theme=radical)
+<p>&nbsp;<img align="center" src="ttps://github-readme-stats.vercel.app/api?username=ttheholyone&show_icons=true&theme=radical" alt="ttheholyone" /></p>
+h
