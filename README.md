@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm TTheHolyOne</h1>
 <h3 align="center">Skilled in Python, C#, HTML, and CSS</h3>
-<h4 align="center">Currently Learning Java</h4>
+<h4 align="center">Learning C++ and Java</h4>
 <h4 align="center">🖤 <b>999 Forever</b> 🖤</h4>
 
 
