@@ -23,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ttheholyone1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="ttheholyone1" height="30" width="40" /></a>
-<a href="https://instagram.com/ttheholyone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="ttheholyone" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ttheholyone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="ttheholyone" height="30" width="40" /></a>
-<a href="https://discord.gg/ebeAytzSeH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="ebeAytzSeH" height="30" width="40" /></a>
+<h4>Github: github.com/ttheholyone</h4>
+<h4>Youtube: youtube.com/ttheholyone</h4>
+<h4>Discord: TTheHolyOne#1642</h4>
+<h4>Email: ttheholyone@ttheholyone.com</h4>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
