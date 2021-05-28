@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TTheHolyOne?tab=repositories](https://github.com/TTheHolyOne?tab=repositories)
 
-- 📝 I regularly update my website [skids.host](skids.host)
+- 📝 I regularly update my website [skids.host](https://skids.host)
 
 - 💬 Ask me about **anything you want :D**
 
