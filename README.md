@@ -36,5 +36,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ttheholyone&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/ttheholyone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ttheholyone&repo=skids-host&theme=radical
+" />
+</a>
+<a href="https://github.com/ttheholyone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttheholyone&langs_count=20&layout=compact&theme=radical" />
 </a>
