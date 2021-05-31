@@ -34,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ttheholyone&show_icons=true&locale=en&layout=compact" alt="ttheholyone" /></p>
 
-(https://github-readme-stats.vercel.app/api?username=TTheHolyOne)](https://github.com/anuraghazra/github-readme-stats)
+[!(https://github-readme-stats.vercel.app/api?username=TTheHolyOne)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ttheholyone&" alt="ttheholyone" /></p>
