@@ -36,4 +36,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttheholyone&langs_count=15&theme=radical" alt="ttheholyone" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttheholyone&langs_count=20&theme=radical" alt="ttheholyone" /></p>
