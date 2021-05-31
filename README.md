@@ -36,4 +36,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ttheholyone&" alt="ttheholyone" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttheholyone&theme=radical" alt="ttheholyone" /></p>
