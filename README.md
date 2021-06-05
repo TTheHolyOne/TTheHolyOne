@@ -41,3 +41,6 @@
 <a href="https://github.com/ttheholyone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ttheholyone&theme=radical&repo=skids-host" />
 </a>
+<a href="https://github.com/ttheholyone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ttheholyone&theme=radical&repo=cookie-clicker" />
+</a>
