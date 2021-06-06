@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TTheHolyOne</h1>
-<h3 align="center">I currently know C#, Python, C++, HTML, and CSS<br/>Learning C and Java</h3>
+<h3 align="center">I am skilled in C#, Python, JS</h3>
 
 
 - 🔭 I’m currently working on [Anything C# Related](https://github.com/TTheHolyOne?tab=repositories)
@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://github.com/TTheHolyOne?tab=repositories](https://github.com/TTheHolyOne?tab=repositories)
 
-- ⚡ Fun fact **I love Python**
+- ⚡ Fun fact **I love Python and C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
