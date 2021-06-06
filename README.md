@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with [CAL99](https://github.com/TTheHolyOne/CAL99)
 
-- 👨‍💻 All of my projects are available at [https://github.com/TTheHolyOne?tab=repositories](https://github.com/TTheHolyOne?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/TTheHolyOne?tab=repositories)
 
 - 📝 I regularly update my website [skids.host](https://skids.host)
 
