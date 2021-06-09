@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ttheholyone@ttheholyone.com | TTheHolyOne#1642**
 
-- 📄 Know about my experiences [https://github.com/TTheHolyOne?tab=repositories](https://github.com/TTheHolyOne?tab=repositories)
+- 📄 Know about my experiences [My Repo](https://github.com/TTheHolyOne?tab=repositories)
 
 - ⚡ Fun fact **I love Python and C#**
 
