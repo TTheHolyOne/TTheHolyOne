@@ -26,9 +26,9 @@
        </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TTheHolyOne&theme=discord" alt="TTheHolyOne" /></a> </p>
 
-- 🔭 I’m currently working on [my gaming website](https://github.com/ttheholyone/holyunblocked).
+- 🔭 I’m currently working on [my interactive learning site](https://studyit.live).
 
-- 🌱 I’m currently learning [Python](https://www.google.com/books/edition/Python_All_in_One_For_Dummies/A0QlEAAAQBAJ?hl=en&gbpv=0).
+- 🌱 I’m currently learning [Javascript](https://www.javascript.com/).
 
 - 👯 I’m looking to collaborate on [making my unblocked game website better](https://github.com/ttheholyone/holyunblocked).
 
