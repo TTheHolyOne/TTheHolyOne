@@ -1,5 +1,5 @@
 
-<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO holymods.dev/holyublocked FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+TTheHolyOne!;HTML+Coder;JavaScript+Game+maker;Talk+to+me+on+my+discord!;Firebase+Developer!;TTheHolyOne#1642+is+my+Discord!">
+<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO holymods.dev/holyublocked FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+TTheHolyOne!;HTML+Coder;JavaScript+Game+maker;Talk+to+me+on+my+discord!;Firebase+Developer!;">
 <h1 align="center">Hi 👋, I'm TTheHolyOne</h1>
 <h3 align="center">A cool person who creates awesome things.</h3>
 <p align="center">check out https://studyit.live my latest project</p>
