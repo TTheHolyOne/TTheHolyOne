@@ -8,7 +8,7 @@
 <h2>About me</h2>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=TTheHolyOne&label=Profile Visitors&color=001eff&style=flat" alt="TTheHolyOne" /> 
-  <img src="https://img.shields.io/badge/OS-macOS-lightgrey/?logo=apple" alt="os">
+  <img src="https://img.shields.io/badge/OS-windows-lightgrey?logo=windows" alt="os">
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue" alt="editor">
   <img src="https://img.shields.io/badge/Editor-Sublime%20Text-blue/?logo=sublimetext&logoColor=warning&color=orange" alt="editor2">
   <img src="https://img.shields.io/reddit/user-karma/combined/TTheHolyOne_reddit?logo=reddit" alt="Reddit User Karma">
