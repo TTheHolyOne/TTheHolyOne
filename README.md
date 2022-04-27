@@ -2,7 +2,7 @@
 <img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO holymods.dev/holyublocked FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+TTheHolyOne!;HTML+Coder;JavaScript+Game+maker;Talk+to+me+on+my+discord!">
 <h1 align="center">Hi 👋, I'm TTheHolyOne</h1>
 <h3 align="center">A cool person who creates awesome things.</h3>
-<p align="center">check out [studyit](https://studyit.live) my latest project</p>
+<p align="center">check out https://studyit.live my latest project</p>
 <h2>Programmer Humor</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h2>About me</h2>
