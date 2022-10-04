@@ -35,14 +35,13 @@
 
 - 👨‍💻 All of my projects are available at [holymods.dev](https://holymods.dev).
 
-- 📫 How to reach me [my epic discord server](https://discord.gg/https://discord.gg/9gQnwVfFZp).
+- 📫 How to reach me [my cool email](mailto:ttheholyone@holymods.dev).
 
 - ⚡ Fun fact [I have a pretty cool website](https://holymods.dev)!
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/TTheHolyOne1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3kh0_" height="30" width="40" /></a>
-<a href="https://discord.gg/9gQnwVfFZp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9gQnwVfFZp" height="30" width="40" /></a>
 </p>
 <p align="left"> <a href="https://twitter.com/TTheHolyOne1" target="blank"><img src="https://img.shields.io/twitter/follow/TTheHolyOne1?logo=twitter&style=for-the-badge" alt="TTheHolyOne1" /></a> <br>
 <a href="https://discord.gg/9gQnwVfFZp" target="blank"><img align="center" src="https://img.shields.io/discord/840084542332076102?label=Server&logo=discord&logoColor=white&style=for-the-badge" alt="discord"></a></p>
