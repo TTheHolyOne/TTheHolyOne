@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
   <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
   <img alt="gmail" src="https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red">
-  <img alt="brave" src="https://img.shields.io/badge/Uses-Brave-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d">
+  <img alt="brave" src="https://img.shields.io/badge/Uses-Brave-blue/?logo=brave&logoColor=ff1b2d&color=ff1b2d">
   <img alt="steam" src="https://img.shields.io/badge/Uses-Steam-blue/?logo=steam&logoColor=1b2838&color=1b2838">
   <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/TTheHolyOne?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
