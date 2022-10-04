@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/OS-windows-lightgrey?logo=windows" alt="os">
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue" alt="editor">
   <img src="https://img.shields.io/badge/Editor-Sublime%20Text-blue/?logo=sublimetext&logoColor=warning&color=orange" alt="editor2">
-  <img src="https://img.shields.io/reddit/user-karma/combined/holymodsdev_reddit?logo=reddit" alt="Reddit User Karma">
   <img src="https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954" alt="music">
   <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
@@ -30,9 +29,9 @@
 
 - 🌱 I’m currently learning [Javascript](https://www.javascript.com/).
 
-- 👯 I’m looking to collaborate on [making my unblocked game website better](https://github.com/ttheholyone/holyunblocked).
+- 👯 I’m looking to collaborate on [my stopping internet censorship site](https://holymods.dev/school).
 
-- 🤝 I’m looking for help with [CSS](https://github.com/ttheholyone/holyunblocked/assets/css).
+- 🤝 I’m looking for help with [my portfolio](https://holymods.dev/about).
 
 - 👨‍💻 All of my projects are available at [holymods.dev](https://holymods.dev).
 
